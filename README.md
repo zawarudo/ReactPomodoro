@@ -2,6 +2,8 @@ ReactPomodoro
 ====
 Simple Pomodoro timer built with React JS.
 
+See a version in action [here](https://zawarudo.github.io/ReactPomodoro/)
+
 ---
 ###Getting Started###
 
